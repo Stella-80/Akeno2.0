@@ -22,16 +22,18 @@ from Manager.modules.helper_funcs.misc import paginate_modules
 PM_START_TEXT = """
 Hello {}, my name is {}!
 
-You know how hard it is sometimes to manage group so here is the solution for you.
+Hello {}, my name is {}! You know how hard it is sometimes to manage group so here is the solution for you.
 
-My owner is [Axel ](t.me/itzz_axel)
+My self AKeno An Smart group managing bot whith built in A.I. Maintained by  [Axel ](t.me/itzz_axel)
+
+My future updates will be posted on [Akenonews ](t.me/akenonews)
 
 Click /help or Help button below to find out more about how to use me to my full potential.
 """
 
 HELP_STRINGS = """
 Hey there! My name is *{}*.
-Group Management Bot with advanced features. 
+Akeno An Group Management Bot with advanced features. 
 *Main* commands available:
  - /start: start the bot
  - /help: PM's you this message.
@@ -41,7 +43,7 @@ Group Management Bot with advanced features.
    - in PM: will send you your settings for all supported modules.
    - in a group: will redirect you to pm, with all that chat's settings.
  
-Pls note report for bugs here @akenosupportchat.
+Pls note report any bugs here @akenosupportchat.
 
 {}
 And the following:
