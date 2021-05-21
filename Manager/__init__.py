@@ -60,7 +60,7 @@ if ENV:
     except ValueError:
         raise Exception("Your tiger users list does not contain valid integers.")
 
-    GBAN_LOGS = os.environ.get('GBAN_LOGS', None)
+    GBAN_LOGS = os.environ.get('GBAN_LOGS', True)
     WEBHOOK = bool(os.environ.get('WEBHOOK', False))
     URL = os.environ.get('URL', "")  # Does not contain token
     PORT = int(os.environ.get('PORT', 5000))

@@ -41,7 +41,7 @@ Group Management Bot with advanced features.
    - in PM: will send you your settings for all supported modules.
    - in a group: will redirect you to pm, with all that chat's settings.
  
-Pls note report for bugs here @akenosupprtchat.
+Pls note report for bugs here @akenosupportchat.
 
 {}
 And the following:
