@@ -20,15 +20,15 @@ from Manager.modules.helper_funcs.chat_status import is_user_admin
 from Manager.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-Hello {}, my name is {}!
+Hello dude {}, my name is {}!
 
-I'm a next generation advance group management bot work under the tag of #BєαѕтAямү which manage your group whrn you're offline.
+I'm a Telegram next generation advance Group Management Bot work under the tag of #BєαѕтAямү.
 
-My name is AKeno An Smart group managing bot whith built in A.I. Maintained by  [Axel ](t.me/itzz_axel)
+I can Help you in Smart managing your chats with built in A.I.
 
 I can't change the direction of the wind, but I can adjust my sails to always reach my destination.
  
-My future updates will be posted on [Akenonews ](t.me/akenonews)
+My future updates will be posted on [Akenonews ](t.me/akenonews) Maintained by  [Devs](t.me/AkenoSupportChat)
 
 Click /help or Help button below to find out more about how to use me to my full potential.
 """
