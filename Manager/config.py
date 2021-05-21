@@ -19,7 +19,7 @@ class Config(object):
     # RECOMMENDED
     SQLALCHEMY_DATABASE_URI = 'postgres://stella:stella123@database-1.cuzno6euao1o.us-east-2.rds.amazonaws.com:5431/dbname'  # needed for any database modules
     MESSAGE_DUMP = None  # needed to make sure 'save from' messages persist
-    GBAN_LOGS = None #Channel ID here with the hyphen like -123456789
+    GBAN_LOGS = -1001395712266 #Channel ID here with the hyphen like -123456789
     LOAD = []
     NO_LOAD = ['translation', 'rss', 'cleaner', 'feds']   
     WEBHOOK = False
