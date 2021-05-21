@@ -1,0 +1,16 @@
+Manager/config.py
+Manager/*.session
+Manager/*.session-journal
+Manager/config.ini
+*.pyc
+.idea/
+.project
+.pydevproject
+.directory
+.vscode
+Manager/modules/helper_funcs/temp.txt
+Mananger/elevated_users.json
+start-3.6.bat
+*.session
+kangsticker.png
+venv
