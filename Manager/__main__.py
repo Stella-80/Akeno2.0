@@ -143,7 +143,7 @@ def start(bot: Bot, update: Update, args: List[str]):
                 parse_mode=ParseMode.MARKDOWN, disable_web_page_preview=True)
 
     else:
-        update.effective_message.reply_text("I'm online!\n<b>Up since:</b> <code>{}</code>")
+        update.effective_message.reply_text("Hey:) I Am Alive,And My System Working Properly,PM me if you have any questions on how to use me!")
 
 
 # for test purposes
