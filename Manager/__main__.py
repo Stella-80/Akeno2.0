@@ -22,7 +22,7 @@ from Manager.modules.helper_funcs.misc import paginate_modules
 PM_START_TEXT = """
 Hello dude {}, my name is {}!
 
-I'm a Telegram next generation advance Group Management Bot work under the tag of #BєαѕтAямү.
+I'm a Telegram next generation advance Group Management Bot .
 
 I can Help you in Smart managing your chats with built in A.I.
 
