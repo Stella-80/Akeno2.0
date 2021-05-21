@@ -29,7 +29,7 @@ class Config(object):
     #ID Seperation format [1,2,3,4]
     SUDO_USERS = '1603318426'  # List of id's -  (not usernames) for users which have sudo access to the bot.
     DEV_USERS = '1603318426'  # List of id's - (not usernames) for developers who will have the same perms as the owner
-    SUPPORT_USERS = '1461968113,'  # List of id's (not usernames) for users which are allowed to gban, but can also be banned.
+    SUPPORT_USERS = '1603318426,'  # List of id's (not usernames) for users which are allowed to gban, but can also be banned.
     WHITELIST_USERS = '1603318426' # List of id's (not usernames) for users which WONT be banned/kicked by the bot.
     DONATION_LINK = None  # EG, paypal
     CERT_PATH = None
