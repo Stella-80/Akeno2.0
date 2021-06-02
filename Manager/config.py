@@ -17,7 +17,7 @@ class Config(object):
     SUPPORT_CHAT = "akenosupportchat" # Your telegram support chat username, must have the "@" Example: @MyBotSupportGroupChat
 
     # RECOMMENDED
-    SQLALCHEMY_DATABASE_URI = 'postgres://stella:stella123@database-1.cuzno6euao1o.us-east-2.rds.amazonaws.com:5431/dbname'  # needed for any database modules
+    SQLALCHEMY_DATABASE_URI = 'postgresql://stella:stella123@database-1.cuzno6euao1o.us-east-2.rds.amazonaws.com:5431/dbname'  # needed for any database modules
     MESSAGE_DUMP = -1001395712266  # needed to make sure 'save from' messages persist
     GBAN_LOGS = -1001395712266 #Channel ID here with the hyphen like -123456789
     LOAD = []
