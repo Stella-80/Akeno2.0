@@ -11,7 +11,7 @@ class Config(object):
     LOGGER = True
 
     # REQUIRED
-    API_KEY = "1700341854:AAEfC8OJXfrtbqIONLGXl0DMNKXRND0w5FQ"
+    API_KEY = "1700341854:AAGW_H-5wmLJZhmTbru0a0jRs2QfdpbHeTU"
     OWNER_ID = "1461968113"  # If you dont know, run the bot and do /id in your private chat with it
     OWNER_USERNAME = "itzz_axel"  #Just write it without the @ ex "Sawada"
     SUPPORT_CHAT = "akenosupportchat" # Your telegram support chat username, must have the "@" Example: @MyBotSupportGroupChat
