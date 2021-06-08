@@ -21,16 +21,16 @@ from Manager.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
 Hello dude {}, my name is {}!
-
 I'm a Telegram next generation advance Group Management Bot .
 
 I can Help you in Smart managing your chats with built in A.I.
 
 I can't change the direction of the wind, but I can adjust my sails to always reach my destination.
  
-My future updates will be posted on [Akenonews ](t.me/akenonews) Maintained by  [Devs](t.me/AkenoSupportChat)
-
-Click /help or Help button below to find out more about how to use me to my full potential.
+My future updates will be posted on [Akeno Updates](t.me/akenoxupdates) If you have any queries on how to use me than visit [Akeno Support](t.me/AkenoXSupport)
+ Maintained by  [Devs](t.me/itzz_axel)
+ 
+Hit /help to find out more about how to use me on full potential.
 """
 
 HELP_STRINGS = """
