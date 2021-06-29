@@ -20,14 +20,14 @@ from Manager.modules.helper_funcs.chat_status import is_user_admin
 from Manager.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-Hello dude {}, my name is {}!
+Hello dude {}, my name is [Vexana](https://telegra.ph/file/bff3e601c362e11221773.jpg)!
 I'm a Telegram next generation advance Group Management Bot .
 
 I can Help you in Smart managing your chats with built in A.I.
 
 I can't change the direction of the wind, but I can adjust my sails to always reach my destination.
  
-My future updates will be posted on [Akeno Updates](t.me/akenoxupdates) If you have any queries on how to use me than visit [Akeno Support](t.me/AkenoXSupport)
+My future updates will be posted on [Vexana Updates](t.me/Vexana_updates) If you have any queries on how to use me than visit [Akeno Support](t.me/AkenoXSupport)
  Maintained by  [Devs](t.me/itzz_axel)
  
 Hit /help to find out more about how to use me on full potential.
@@ -45,7 +45,7 @@ Akeno An Group Management Bot with advanced features.
    - in PM: will send you your settings for all supported modules.
    - in a group: will redirect you to pm, with all that chat's settings.
  
-Pls note report any bugs here @akenosupportchat.
+Pls note report any bugs here @Vexana_support.
 
 {}
 And the following:
